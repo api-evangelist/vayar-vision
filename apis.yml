@@ -1,8 +1,23 @@
 aid: vayar-vision
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vayar-vision.png
 name: Vayar Vision
-description: Vayar Vision is a company surfaced as a portfolio company of battery-ventures and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Vayar Vision Ltd was an Israeli startup (company no. 514054972, incorporated 2007-11-26,
+  Herzliya) that developed a visual search engine enabling search for images based on their visual
+  characteristics rather than textual tagging - positioned as "a Google for pictures" turning images
+  into searchable knowledge. A Battery Ventures portfolio company listed as an exited investment, the
+  company has been wilfully dissolved (last annual report 2021) and its former website vayar.com no
+  longer resolves. No API surface, developer program, or published artifacts exist.
 url: https://raw.githubusercontent.com/api-evangelist/vayar-vision/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +25,26 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: dissolved
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Visual Search
+- Image Recognition
+- Search Engines
+- Computer Vision
+- Israel
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1

@@ -24,11 +24,11 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vayar-vision.png
 name: Vayar Vision
 description: Vayar Vision Ltd was an Israeli startup (company no. 514054972, incorporated 2007-11-26,
-  Herzliya) that developed a visual search engine enabling search for images based on their visual
-  characteristics rather than textual tagging - positioned as "a Google for pictures" turning images
-  into searchable knowledge. A Battery Ventures portfolio company listed as an exited investment, the
-  company has been wilfully dissolved (last annual report 2021) and its former website vayar.com no
-  longer resolves. No API surface, developer program, or published artifacts exist.
+  Herzliya) that developed a visual search engine enabling search for images based on their visual characteristics
+  rather than textual tagging - positioned as "a Google for pictures" turning images into searchable knowledge.
+  A Battery Ventures portfolio company listed as an exited investment, the company has been wilfully dissolved
+  (last annual report 2021) and its former website vayar.com no longer resolves. No API surface, developer
+  program, or published artifacts exist.
 url: https://raw.githubusercontent.com/api-evangelist/vayar-vision/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -36,10 +36,10 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
-x-status: dissolved
+x-status: defunct
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-09-15'
 tags:
 - Company
 - Visual Search

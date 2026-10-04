@@ -45,7 +45,7 @@ tags:
 - Visual Search
 - Image Recognition
 - Search Engines
-- Computer-Vision
+- Computer Vision
 - Israel
 - Defunct
 tags_raw:
@@ -56,6 +56,7 @@ tags_raw:
 - Computer Vision
 - Israel
 - Defunct
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
